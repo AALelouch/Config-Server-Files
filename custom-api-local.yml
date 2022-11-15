@@ -8,7 +8,7 @@ spring:
   application:
     name: custom-api
 
-test:
-  config:
-    server:
-      variable: Hello
+  test:
+    config:
+      server:
+        variable: Hello
