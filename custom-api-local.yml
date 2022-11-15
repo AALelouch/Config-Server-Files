@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+debug:
+  enable: true
+
+spring:
+  application:
+    name: custom-api
+
+test:
+  config:
+    server:
+      variable: Hello
