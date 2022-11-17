@@ -11,4 +11,4 @@ spring:
   test:
     config:
       server:
-        variable: Hello
+        hello: Hello
